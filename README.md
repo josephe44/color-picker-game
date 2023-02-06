@@ -1,4 +1,4 @@
-# alt-school-vue3
+# Color Picker Game
 
 This template should help get you started developing with Vue 3 in Vite.
 
